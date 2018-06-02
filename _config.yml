@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "OSI Layer 8"
 
 author:
   facebook:         your-id
@@ -23,8 +23,8 @@ author:
   email:            your-id@your-email.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2018
+  name:             OSI Layer 8
 
 # Google-analytics
 google-analytics:
@@ -35,13 +35,13 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://nush-osi-layer-8.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "/" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/Singapore
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/nush-osi-layer-8/nush-osi-layer-8.github.io"
 
 # Sass
 sass:
